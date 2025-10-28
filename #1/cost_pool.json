@@ -1,3 +1,3602 @@
 [
-
+  {
+    "pool_id": 1,
+    "costs": {
+      "costPerTravelHour": 3.22,
+      "costPerKm": 0.0391,
+      "parking_multiplier": 4.78
+    },
+    "features": {
+      "total_distance_km": 1025.2,
+      "total_travel_hours": 30.57,
+      "total_cost": 625327.94,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 1000.69
+    },
+    "timestamp": "2025-10-27T18:11:58.500638"
+  },
+  {
+    "pool_id": 2,
+    "costs": {
+      "costPerTravelHour": 1.5,
+      "costPerKm": 0.3131,
+      "parking_multiplier": 3.93
+    },
+    "features": {
+      "total_distance_km": 1007.77,
+      "total_travel_hours": 30.39,
+      "total_cost": 574750.57,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 822.66
+    },
+    "timestamp": "2025-10-27T18:13:59.050266"
+  },
+  {
+    "pool_id": 3,
+    "costs": {
+      "costPerTravelHour": 1.0,
+      "costPerKm": 0.2946,
+      "parking_multiplier": 2.69
+    },
+    "features": {
+      "total_distance_km": 1001.48,
+      "total_travel_hours": 30.41,
+      "total_cost": 536205.89,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 563.09
+    },
+    "timestamp": "2025-10-27T18:15:59.706396"
+  },
+  {
+    "pool_id": 4,
+    "costs": {
+      "costPerTravelHour": 1.23,
+      "costPerKm": 0.3214,
+      "parking_multiplier": 0.42
+    },
+    "features": {
+      "total_distance_km": 1001.33,
+      "total_travel_hours": 30.4,
+      "total_cost": 450131.92,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 87.99
+    },
+    "timestamp": "2025-10-27T18:18:00.172996"
+  },
+  {
+    "pool_id": 5,
+    "costs": {
+      "costPerTravelHour": 2.96,
+      "costPerKm": 0.1044,
+      "parking_multiplier": 3.81
+    },
+    "features": {
+      "total_distance_km": 999.89,
+      "total_travel_hours": 30.42,
+      "total_cost": 574795.08,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 797.65
+    },
+    "timestamp": "2025-10-27T18:20:00.817149"
+  },
+  {
+    "pool_id": 6,
+    "costs": {
+      "costPerTravelHour": 1.58,
+      "costPerKm": 0.3423,
+      "parking_multiplier": 1.06
+    },
+    "features": {
+      "total_distance_km": 999.89,
+      "total_travel_hours": 30.42,
+      "total_cost": 476210.21,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 221.97
+    },
+    "timestamp": "2025-10-27T18:22:01.292370"
+  },
+  {
+    "pool_id": 7,
+    "costs": {
+      "costPerTravelHour": 1.09,
+      "costPerKm": 0.2443,
+      "parking_multiplier": 1.12
+    },
+    "features": {
+      "total_distance_km": 1029.65,
+      "total_travel_hours": 30.68,
+      "total_cost": 493222.32,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 234.49
+    },
+    "timestamp": "2025-10-27T18:24:01.835647"
+  },
+  {
+    "pool_id": 8,
+    "costs": {
+      "costPerTravelHour": 4.41,
+      "costPerKm": 0.2262,
+      "parking_multiplier": 4.67
+    },
+    "features": {
+      "total_distance_km": 1007.77,
+      "total_travel_hours": 30.39,
+      "total_cost": 601359.08,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 977.75
+    },
+    "timestamp": "2025-10-27T18:26:02.338563"
+  },
+  {
+    "pool_id": 9,
+    "costs": {
+      "costPerTravelHour": 0.94,
+      "costPerKm": 0.4754,
+      "parking_multiplier": 3.2
+    },
+    "features": {
+      "total_distance_km": 1007.87,
+      "total_travel_hours": 30.41,
+      "total_cost": 557373.25,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 669.83
+    },
+    "timestamp": "2025-10-27T18:28:03.023423"
+  },
+  {
+    "pool_id": 10,
+    "costs": {
+      "costPerTravelHour": 2.75,
+      "costPerKm": 0.4188,
+      "parking_multiplier": 4.05
+    },
+    "features": {
+      "total_distance_km": 1007.01,
+      "total_travel_hours": 30.37,
+      "total_cost": 579391.26,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 847.87
+    },
+    "timestamp": "2025-10-27T18:30:03.522680"
+  },
+  {
+    "pool_id": 11,
+    "costs": {
+      "costPerTravelHour": 2.98,
+      "costPerKm": 0.4234,
+      "parking_multiplier": 2.72
+    },
+    "features": {
+      "total_distance_km": 1001.35,
+      "total_travel_hours": 30.43,
+      "total_cost": 539809.6,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 569.51
+    },
+    "timestamp": "2025-10-27T18:32:04.212130"
+  },
+  {
+    "pool_id": 12,
+    "costs": {
+      "costPerTravelHour": 2.6,
+      "costPerKm": 0.111,
+      "parking_multiplier": 2.29
+    },
+    "features": {
+      "total_distance_km": 1010.89,
+      "total_travel_hours": 30.48,
+      "total_cost": 559598.81,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 479.48
+    },
+    "timestamp": "2025-10-27T18:34:04.648366"
+  },
+  {
+    "pool_id": 13,
+    "costs": {
+      "costPerTravelHour": 1.91,
+      "costPerKm": 0.3833,
+      "parking_multiplier": 4.4
+    },
+    "features": {
+      "total_distance_km": 1007.77,
+      "total_travel_hours": 30.39,
+      "total_cost": 591834.66,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 921.06
+    },
+    "timestamp": "2025-10-27T18:36:05.377096"
+  },
+  {
+    "pool_id": 14,
+    "costs": {
+      "costPerTravelHour": 2.68,
+      "costPerKm": 0.3475,
+      "parking_multiplier": 3.0
+    },
+    "features": {
+      "total_distance_km": 1024.01,
+      "total_travel_hours": 30.58,
+      "total_cost": 566913.6,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 628.09
+    },
+    "timestamp": "2025-10-27T18:38:05.787160"
+  },
+  {
+    "pool_id": 15,
+    "costs": {
+      "costPerTravelHour": 4.48,
+      "costPerKm": 0.2445,
+      "parking_multiplier": 2.67
+    },
+    "features": {
+      "total_distance_km": 1008.12,
+      "total_travel_hours": 30.39,
+      "total_cost": 530628.57,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 559.15
+    },
+    "timestamp": "2025-10-27T18:40:06.236030"
+  },
+  {
+    "pool_id": 16,
+    "costs": {
+      "costPerTravelHour": 3.82,
+      "costPerKm": 0.1525,
+      "parking_multiplier": 3.53
+    },
+    "features": {
+      "total_distance_km": 1014.48,
+      "total_travel_hours": 30.56,
+      "total_cost": 564083.06,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 739.1
+    },
+    "timestamp": "2025-10-27T18:42:06.833321"
+  },
+  {
+    "pool_id": 17,
+    "costs": {
+      "costPerTravelHour": 3.47,
+      "costPerKm": 0.446,
+      "parking_multiplier": 4.55
+    },
+    "features": {
+      "total_distance_km": 1015.77,
+      "total_travel_hours": 30.53,
+      "total_cost": 601444.31,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 952.57
+    },
+    "timestamp": "2025-10-27T18:44:07.309848"
+  },
+  {
+    "pool_id": 18,
+    "costs": {
+      "costPerTravelHour": 2.84,
+      "costPerKm": 0.3262,
+      "parking_multiplier": 4.63
+    },
+    "features": {
+      "total_distance_km": 1007.01,
+      "total_travel_hours": 30.37,
+      "total_cost": 600086.57,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 969.27
+    },
+    "timestamp": "2025-10-27T18:46:07.836741"
+  },
+  {
+    "pool_id": 19,
+    "costs": {
+      "costPerTravelHour": 1.65,
+      "costPerKm": 0.2405,
+      "parking_multiplier": 2.17
+    },
+    "features": {
+      "total_distance_km": 1007.35,
+      "total_travel_hours": 30.51,
+      "total_cost": 512990.52,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 454.3
+    },
+    "timestamp": "2025-10-27T18:48:08.328110"
+  },
+  {
+    "pool_id": 20,
+    "costs": {
+      "costPerTravelHour": 2.77,
+      "costPerKm": 0.2888,
+      "parking_multiplier": 4.65
+    },
+    "features": {
+      "total_distance_km": 1012.17,
+      "total_travel_hours": 30.48,
+      "total_cost": 637809.75,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 973.45
+    },
+    "timestamp": "2025-10-27T18:50:08.790716"
+  },
+  {
+    "pool_id": 21,
+    "costs": {
+      "costPerTravelHour": 4.7,
+      "costPerKm": 0.1761,
+      "parking_multiplier": 4.4
+    },
+    "features": {
+      "total_distance_km": 1024.04,
+      "total_travel_hours": 30.63,
+      "total_cost": 624313.9,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 921.26
+    },
+    "timestamp": "2025-10-27T18:52:09.374208"
+  },
+  {
+    "pool_id": 22,
+    "costs": {
+      "costPerTravelHour": 4.56,
+      "costPerKm": 0.3595,
+      "parking_multiplier": 1.58
+    },
+    "features": {
+      "total_distance_km": 1000.03,
+      "total_travel_hours": 30.4,
+      "total_cost": 492953.21,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 331.02
+    },
+    "timestamp": "2025-10-27T18:54:09.841837"
+  },
+  {
+    "pool_id": 23,
+    "costs": {
+      "costPerTravelHour": 4.14,
+      "costPerKm": 0.4731,
+      "parking_multiplier": 0.98
+    },
+    "features": {
+      "total_distance_km": 999.89,
+      "total_travel_hours": 30.42,
+      "total_cost": 473725.2,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 205.41
+    },
+    "timestamp": "2025-10-27T18:56:10.316696"
+  },
+  {
+    "pool_id": 24,
+    "costs": {
+      "costPerTravelHour": 0.71,
+      "costPerKm": 0.0322,
+      "parking_multiplier": 3.47
+    },
+    "features": {
+      "total_distance_km": 1012.9,
+      "total_travel_hours": 30.68,
+      "total_cost": 621216.35,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 726.33
+    },
+    "timestamp": "2025-10-27T18:58:10.898856"
+  },
+  {
+    "pool_id": 25,
+    "costs": {
+      "costPerTravelHour": 2.86,
+      "costPerKm": 0.1153,
+      "parking_multiplier": 0.26
+    },
+    "features": {
+      "total_distance_km": 1011.92,
+      "total_travel_hours": 30.48,
+      "total_cost": 460327.98,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 54.62
+    },
+    "timestamp": "2025-10-27T19:00:11.335607"
+  },
+  {
+    "pool_id": 26,
+    "costs": {
+      "costPerTravelHour": 3.88,
+      "costPerKm": 0.2234,
+      "parking_multiplier": 3.48
+    },
+    "features": {
+      "total_distance_km": 1024.04,
+      "total_travel_hours": 30.63,
+      "total_cost": 591251.25,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 728.64
+    },
+    "timestamp": "2025-10-27T19:02:11.812734"
+  },
+  {
+    "pool_id": 27,
+    "costs": {
+      "costPerTravelHour": 1.17,
+      "costPerKm": 0.2995,
+      "parking_multiplier": 1.1
+    },
+    "features": {
+      "total_distance_km": 1099.02,
+      "total_travel_hours": 31.47,
+      "total_cost": 536571.72,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 230.31
+    },
+    "timestamp": "2025-10-27T19:04:12.258287"
+  },
+  {
+    "pool_id": 28,
+    "costs": {
+      "costPerTravelHour": 1.94,
+      "costPerKm": 0.1956,
+      "parking_multiplier": 4.17
+    },
+    "features": {
+      "total_distance_km": 1013.79,
+      "total_travel_hours": 30.49,
+      "total_cost": 583174.6,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 872.93
+    },
+    "timestamp": "2025-10-27T19:06:12.718597"
+  },
+  {
+    "pool_id": 29,
+    "costs": {
+      "costPerTravelHour": 0.54,
+      "costPerKm": 0.4836,
+      "parking_multiplier": 0.65
+    },
+    "features": {
+      "total_distance_km": 1014.76,
+      "total_travel_hours": 30.54,
+      "total_cost": 515894.37,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 136.08
+    },
+    "timestamp": "2025-10-27T19:08:13.201291"
+  },
+  {
+    "pool_id": 30,
+    "costs": {
+      "costPerTravelHour": 2.37,
+      "costPerKm": 0.424,
+      "parking_multiplier": 2.56
+    },
+    "features": {
+      "total_distance_km": 1038.49,
+      "total_travel_hours": 30.82,
+      "total_cost": 560281.98,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 535.98
+    },
+    "timestamp": "2025-10-27T19:10:14.001734"
+  },
+  {
+    "pool_id": 31,
+    "costs": {
+      "costPerTravelHour": 4.25,
+      "costPerKm": 0.062,
+      "parking_multiplier": 0.55
+    },
+    "features": {
+      "total_distance_km": 1014.72,
+      "total_travel_hours": 30.69,
+      "total_cost": 502529.2,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 115.41
+    },
+    "timestamp": "2025-10-27T19:12:14.455833"
+  },
+  {
+    "pool_id": 32,
+    "costs": {
+      "costPerTravelHour": 3.64,
+      "costPerKm": 0.3782,
+      "parking_multiplier": 3.95
+    },
+    "features": {
+      "total_distance_km": 1007.28,
+      "total_travel_hours": 30.36,
+      "total_cost": 572168.73,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 827.0
+    },
+    "timestamp": "2025-10-27T19:14:15.205810"
+  },
+  {
+    "pool_id": 33,
+    "costs": {
+      "costPerTravelHour": 1.34,
+      "costPerKm": 0.066,
+      "parking_multiplier": 2.5
+    },
+    "features": {
+      "total_distance_km": 1024.74,
+      "total_travel_hours": 30.57,
+      "total_cost": 523119.58,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 523.35
+    },
+    "timestamp": "2025-10-27T19:16:15.900775"
+  },
+  {
+    "pool_id": 34,
+    "costs": {
+      "costPerTravelHour": 0.75,
+      "costPerKm": 0.3281,
+      "parking_multiplier": 4.55
+    },
+    "features": {
+      "total_distance_km": 1046.67,
+      "total_travel_hours": 30.9,
+      "total_cost": 656471.85,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 952.38
+    },
+    "timestamp": "2025-10-27T19:18:16.546347"
+  },
+  {
+    "pool_id": 35,
+    "costs": {
+      "costPerTravelHour": 3.14,
+      "costPerKm": 0.187,
+      "parking_multiplier": 0.45
+    },
+    "features": {
+      "total_distance_km": 1041.57,
+      "total_travel_hours": 30.87,
+      "total_cost": 504414.12,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 94.41
+    },
+    "timestamp": "2025-10-27T19:20:17.124366"
+  },
+  {
+    "pool_id": 36,
+    "costs": {
+      "costPerTravelHour": 1.16,
+      "costPerKm": 0.0863,
+      "parking_multiplier": 4.97
+    },
+    "features": {
+      "total_distance_km": 1016.57,
+      "total_travel_hours": 30.63,
+      "total_cost": 717397.9,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 1040.31
+    },
+    "timestamp": "2025-10-27T19:22:17.605022"
+  },
+  {
+    "pool_id": 37,
+    "costs": {
+      "costPerTravelHour": 3.92,
+      "costPerKm": 0.3718,
+      "parking_multiplier": 4.04
+    },
+    "features": {
+      "total_distance_km": 1008.86,
+      "total_travel_hours": 30.4,
+      "total_cost": 583723.47,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 845.85
+    },
+    "timestamp": "2025-10-27T19:24:18.191469"
+  },
+  {
+    "pool_id": 38,
+    "costs": {
+      "costPerTravelHour": 2.76,
+      "costPerKm": 0.2515,
+      "parking_multiplier": 3.29
+    },
+    "features": {
+      "total_distance_km": 996.37,
+      "total_travel_hours": 30.28,
+      "total_cost": 580619.38,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 688.8
+    },
+    "timestamp": "2025-10-27T19:26:18.750888"
+  },
+  {
+    "pool_id": 39,
+    "costs": {
+      "costPerTravelHour": 3.74,
+      "costPerKm": 0.3666,
+      "parking_multiplier": 2.3
+    },
+    "features": {
+      "total_distance_km": 1011.34,
+      "total_travel_hours": 30.45,
+      "total_cost": 526825.42,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 481.66
+    },
+    "timestamp": "2025-10-27T19:28:19.187182"
+  },
+  {
+    "pool_id": 40,
+    "costs": {
+      "costPerTravelHour": 4.13,
+      "costPerKm": 0.4018,
+      "parking_multiplier": 1.55
+    },
+    "features": {
+      "total_distance_km": 1007.86,
+      "total_travel_hours": 30.38,
+      "total_cost": 489383.99,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 324.71
+    },
+    "timestamp": "2025-10-27T19:30:19.767326"
+  },
+  {
+    "pool_id": 41,
+    "costs": {
+      "costPerTravelHour": 3.21,
+      "costPerKm": 0.4844,
+      "parking_multiplier": 2.77
+    },
+    "features": {
+      "total_distance_km": 1010.75,
+      "total_travel_hours": 30.43,
+      "total_cost": 534143.54,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 579.99
+    },
+    "timestamp": "2025-10-27T19:32:20.278717"
+  },
+  {
+    "pool_id": 42,
+    "costs": {
+      "costPerTravelHour": 4.04,
+      "costPerKm": 0.3367,
+      "parking_multiplier": 4.88
+    },
+    "features": {
+      "total_distance_km": 999.89,
+      "total_travel_hours": 30.42,
+      "total_cost": 613842.43,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 1021.68
+    },
+    "timestamp": "2025-10-27T19:34:20.907902"
+  },
+  {
+    "pool_id": 43,
+    "costs": {
+      "costPerTravelHour": 1.38,
+      "costPerKm": 0.3231,
+      "parking_multiplier": 3.72
+    },
+    "features": {
+      "total_distance_km": 1013.45,
+      "total_travel_hours": 30.55,
+      "total_cost": 628756.77,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 778.7
+    },
+    "timestamp": "2025-10-27T19:36:21.451765"
+  },
+  {
+    "pool_id": 44,
+    "costs": {
+      "costPerTravelHour": 4.92,
+      "costPerKm": 0.0387,
+      "parking_multiplier": 1.04
+    },
+    "features": {
+      "total_distance_km": 1013.33,
+      "total_travel_hours": 30.53,
+      "total_cost": 525823.2,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 218.02
+    },
+    "timestamp": "2025-10-27T19:38:22.171490"
+  },
+  {
+    "pool_id": 45,
+    "costs": {
+      "costPerTravelHour": 1.58,
+      "costPerKm": 0.2322,
+      "parking_multiplier": 0.46
+    },
+    "features": {
+      "total_distance_km": 1018.47,
+      "total_travel_hours": 30.57,
+      "total_cost": 503116.59,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 96.39
+    },
+    "timestamp": "2025-10-27T19:40:22.655809"
+  },
+  {
+    "pool_id": 46,
+    "costs": {
+      "costPerTravelHour": 1.82,
+      "costPerKm": 0.4464,
+      "parking_multiplier": 1.0
+    },
+    "features": {
+      "total_distance_km": 1027.19,
+      "total_travel_hours": 31.01,
+      "total_cost": 516939.36,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 209.43
+    },
+    "timestamp": "2025-10-27T19:42:23.229781"
+  },
+  {
+    "pool_id": 47,
+    "costs": {
+      "costPerTravelHour": 3.77,
+      "costPerKm": 0.1089,
+      "parking_multiplier": 1.53
+    },
+    "features": {
+      "total_distance_km": 1046.15,
+      "total_travel_hours": 30.92,
+      "total_cost": 573610.67,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 320.5
+    },
+    "timestamp": "2025-10-27T19:44:23.889460"
+  },
+  {
+    "pool_id": 48,
+    "costs": {
+      "costPerTravelHour": 4.95,
+      "costPerKm": 0.1346,
+      "parking_multiplier": 1.18
+    },
+    "features": {
+      "total_distance_km": 1013.48,
+      "total_travel_hours": 30.39,
+      "total_cost": 476859.59,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 247.32
+    },
+    "timestamp": "2025-10-27T19:46:24.514280"
+  },
+  {
+    "pool_id": 49,
+    "costs": {
+      "costPerTravelHour": 2.47,
+      "costPerKm": 0.3743,
+      "parking_multiplier": 2.62
+    },
+    "features": {
+      "total_distance_km": 1019.39,
+      "total_travel_hours": 30.48,
+      "total_cost": 547545.28,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 548.54
+    },
+    "timestamp": "2025-10-27T19:48:24.974771"
+  },
+  {
+    "pool_id": 50,
+    "costs": {
+      "costPerTravelHour": 0.64,
+      "costPerKm": 0.0563,
+      "parking_multiplier": 0.9
+    },
+    "features": {
+      "total_distance_km": 1015.63,
+      "total_travel_hours": 30.54,
+      "total_cost": 485269.49,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 188.42
+    },
+    "timestamp": "2025-10-27T19:50:25.562683"
+  },
+  {
+    "pool_id": 51,
+    "costs": {
+      "costPerTravelHour": 2.43,
+      "costPerKm": 0.3528,
+      "parking_multiplier": 0.99
+    },
+    "features": {
+      "total_distance_km": 1005.67,
+      "total_travel_hours": 30.37,
+      "total_cost": 468228.07,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 207.38
+    },
+    "timestamp": "2025-10-27T19:52:26.175727"
+  },
+  {
+    "pool_id": 52,
+    "costs": {
+      "costPerTravelHour": 1.05,
+      "costPerKm": 0.2419,
+      "parking_multiplier": 4.66
+    },
+    "features": {
+      "total_distance_km": 1007.01,
+      "total_travel_hours": 30.56,
+      "total_cost": 664152.16,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 975.42
+    },
+    "timestamp": "2025-10-27T19:54:26.626946"
+  },
+  {
+    "pool_id": 53,
+    "costs": {
+      "costPerTravelHour": 3.46,
+      "costPerKm": 0.4438,
+      "parking_multiplier": 1.79
+    },
+    "features": {
+      "total_distance_km": 1021.58,
+      "total_travel_hours": 30.68,
+      "total_cost": 572551.04,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 374.89
+    },
+    "timestamp": "2025-10-27T19:56:27.079484"
+  },
+  {
+    "pool_id": 54,
+    "costs": {
+      "costPerTravelHour": 3.8,
+      "costPerKm": 0.0846,
+      "parking_multiplier": 2.1
+    },
+    "features": {
+      "total_distance_km": 1014.63,
+      "total_travel_hours": 30.52,
+      "total_cost": 533288.43,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 439.8
+    },
+    "timestamp": "2025-10-27T19:58:27.727564"
+  },
+  {
+    "pool_id": 55,
+    "costs": {
+      "costPerTravelHour": 3.19,
+      "costPerKm": 0.1574,
+      "parking_multiplier": 0.24
+    },
+    "features": {
+      "total_distance_km": 1026.7,
+      "total_travel_hours": 30.63,
+      "total_cost": 483717.87,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 50.46
+    },
+    "timestamp": "2025-10-27T20:00:28.398994"
+  },
+  {
+    "pool_id": 56,
+    "costs": {
+      "costPerTravelHour": 1.31,
+      "costPerKm": 0.2331,
+      "parking_multiplier": 1.62
+    },
+    "features": {
+      "total_distance_km": 1032.76,
+      "total_travel_hours": 30.71,
+      "total_cost": 544913.81,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 339.16
+    },
+    "timestamp": "2025-10-27T20:02:28.839228"
+  },
+  {
+    "pool_id": 57,
+    "costs": {
+      "costPerTravelHour": 4.19,
+      "costPerKm": 0.3574,
+      "parking_multiplier": 0.26
+    },
+    "features": {
+      "total_distance_km": 1008.74,
+      "total_travel_hours": 30.37,
+      "total_cost": 442917.65,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 54.71
+    },
+    "timestamp": "2025-10-27T20:04:29.487539"
+  },
+  {
+    "pool_id": 58,
+    "costs": {
+      "costPerTravelHour": 1.04,
+      "costPerKm": 0.0241,
+      "parking_multiplier": 1.48
+    },
+    "features": {
+      "total_distance_km": 992.98,
+      "total_travel_hours": 30.23,
+      "total_cost": 494286.75,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 309.84
+    },
+    "timestamp": "2025-10-27T20:06:29.926634"
+  },
+  {
+    "pool_id": 59,
+    "costs": {
+      "costPerTravelHour": 2.52,
+      "costPerKm": 0.2846,
+      "parking_multiplier": 2.84
+    },
+    "features": {
+      "total_distance_km": 1013.45,
+      "total_travel_hours": 30.55,
+      "total_cost": 597055.29,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 594.59
+    },
+    "timestamp": "2025-10-27T20:08:30.545084"
+  },
+  {
+    "pool_id": 60,
+    "costs": {
+      "costPerTravelHour": 2.2,
+      "costPerKm": 0.0694,
+      "parking_multiplier": 3.99
+    },
+    "features": {
+      "total_distance_km": 1012.2,
+      "total_travel_hours": 30.49,
+      "total_cost": 627343.75,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 835.27
+    },
+    "timestamp": "2025-10-27T20:10:31.288325"
+  },
+  {
+    "pool_id": 61,
+    "costs": {
+      "costPerTravelHour": 3.16,
+      "costPerKm": 0.3612,
+      "parking_multiplier": 0.28
+    },
+    "features": {
+      "total_distance_km": 1026.95,
+      "total_travel_hours": 30.78,
+      "total_cost": 574391.04,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 58.83
+    },
+    "timestamp": "2025-10-27T20:12:31.743995"
+  },
+  {
+    "pool_id": 62,
+    "costs": {
+      "costPerTravelHour": 4.73,
+      "costPerKm": 0.2514,
+      "parking_multiplier": 4.58
+    },
+    "features": {
+      "total_distance_km": 1010.55,
+      "total_travel_hours": 30.49,
+      "total_cost": 618247.26,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 958.93
+    },
+    "timestamp": "2025-10-27T20:14:32.385273"
+  },
+  {
+    "pool_id": 63,
+    "costs": {
+      "costPerTravelHour": 1.35,
+      "costPerKm": 0.1592,
+      "parking_multiplier": 3.53
+    },
+    "features": {
+      "total_distance_km": 1024.14,
+      "total_travel_hours": 30.78,
+      "total_cost": 638942.21,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 738.93
+    },
+    "timestamp": "2025-10-27T20:16:33.014908"
+  },
+  {
+    "pool_id": 64,
+    "costs": {
+      "costPerTravelHour": 2.5,
+      "costPerKm": 0.2946,
+      "parking_multiplier": 3.27
+    },
+    "features": {
+      "total_distance_km": 1011.68,
+      "total_travel_hours": 30.47,
+      "total_cost": 621316.58,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 684.59
+    },
+    "timestamp": "2025-10-27T20:18:33.439802"
+  },
+  {
+    "pool_id": 65,
+    "costs": {
+      "costPerTravelHour": 0.9,
+      "costPerKm": 0.2224,
+      "parking_multiplier": 0.86
+    },
+    "features": {
+      "total_distance_km": 1045.56,
+      "total_travel_hours": 31.3,
+      "total_cost": 630241.21,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 180.06
+    },
+    "timestamp": "2025-10-27T20:20:33.992906"
+  },
+  {
+    "pool_id": 66,
+    "costs": {
+      "costPerTravelHour": 1.31,
+      "costPerKm": 0.3861,
+      "parking_multiplier": 0.9
+    },
+    "features": {
+      "total_distance_km": 1049.16,
+      "total_travel_hours": 31.21,
+      "total_cost": 650169.68,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 188.46
+    },
+    "timestamp": "2025-10-27T20:22:34.514765"
+  },
+  {
+    "pool_id": 67,
+    "costs": {
+      "costPerTravelHour": 3.13,
+      "costPerKm": 0.4087,
+      "parking_multiplier": 2.3
+    },
+    "features": {
+      "total_distance_km": 1024.34,
+      "total_travel_hours": 30.7,
+      "total_cost": 574843.17,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 481.61
+    },
+    "timestamp": "2025-10-27T20:24:35.048158"
+  },
+  {
+    "pool_id": 68,
+    "costs": {
+      "costPerTravelHour": 3.52,
+      "costPerKm": 0.0449,
+      "parking_multiplier": 1.87
+    },
+    "features": {
+      "total_distance_km": 1043.55,
+      "total_travel_hours": 31.13,
+      "total_cost": 601909.41,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 391.64
+    },
+    "timestamp": "2025-10-27T20:26:35.523080"
+  },
+  {
+    "pool_id": 69,
+    "costs": {
+      "costPerTravelHour": 2.4,
+      "costPerKm": 0.3818,
+      "parking_multiplier": 0.24
+    },
+    "features": {
+      "total_distance_km": 1017.61,
+      "total_travel_hours": 30.53,
+      "total_cost": 514109.96,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 50.4
+    },
+    "timestamp": "2025-10-27T20:28:36.268772"
+  },
+  {
+    "pool_id": 70,
+    "costs": {
+      "costPerTravelHour": 3.09,
+      "costPerKm": 0.1725,
+      "parking_multiplier": 0.84
+    },
+    "features": {
+      "total_distance_km": 1157.87,
+      "total_travel_hours": 32.53,
+      "total_cost": 543836.53,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 176.03
+    },
+    "timestamp": "2025-10-27T20:30:36.920270"
+  },
+  {
+    "pool_id": 71,
+    "costs": {
+      "costPerTravelHour": 4.69,
+      "costPerKm": 0.3136,
+      "parking_multiplier": 1.98
+    },
+    "features": {
+      "total_distance_km": 1018.31,
+      "total_travel_hours": 30.6,
+      "total_cost": 574375.94,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 414.75
+    },
+    "timestamp": "2025-10-27T20:32:37.937968"
+  },
+  {
+    "pool_id": 72,
+    "costs": {
+      "costPerTravelHour": 0.65,
+      "costPerKm": 0.1468,
+      "parking_multiplier": 0.92
+    },
+    "features": {
+      "total_distance_km": 1004.96,
+      "total_travel_hours": 30.47,
+      "total_cost": 530685.27,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 192.6
+    },
+    "timestamp": "2025-10-27T20:34:38.387052"
+  },
+  {
+    "pool_id": 73,
+    "costs": {
+      "costPerTravelHour": 3.13,
+      "costPerKm": 0.0205,
+      "parking_multiplier": 3.82
+    },
+    "features": {
+      "total_distance_km": 1069.76,
+      "total_travel_hours": 31.32,
+      "total_cost": 620658.36,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 799.75
+    },
+    "timestamp": "2025-10-27T20:36:38.900796"
+  },
+  {
+    "pool_id": 74,
+    "costs": {
+      "costPerTravelHour": 1.61,
+      "costPerKm": 0.1099,
+      "parking_multiplier": 4.85
+    },
+    "features": {
+      "total_distance_km": 1013.03,
+      "total_travel_hours": 30.78,
+      "total_cost": 678451.56,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 1015.23
+    },
+    "timestamp": "2025-10-27T20:38:39.365443"
+  },
+  {
+    "pool_id": 75,
+    "costs": {
+      "costPerTravelHour": 3.74,
+      "costPerKm": 0.2806,
+      "parking_multiplier": 4.58
+    },
+    "features": {
+      "total_distance_km": 1021.23,
+      "total_travel_hours": 30.62,
+      "total_cost": 671890.04,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 958.87
+    },
+    "timestamp": "2025-10-27T20:40:39.819625"
+  },
+  {
+    "pool_id": 76,
+    "costs": {
+      "costPerTravelHour": 2.91,
+      "costPerKm": 0.1568,
+      "parking_multiplier": 3.67
+    },
+    "features": {
+      "total_distance_km": 1023.26,
+      "total_travel_hours": 30.72,
+      "total_cost": 613497.0,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 768.34
+    },
+    "timestamp": "2025-10-27T20:42:40.428624"
+  },
+  {
+    "pool_id": 77,
+    "costs": {
+      "costPerTravelHour": 3.6,
+      "costPerKm": 0.2289,
+      "parking_multiplier": 2.7
+    },
+    "features": {
+      "total_distance_km": 1022.23,
+      "total_travel_hours": 30.94,
+      "total_cost": 654057.74,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 565.37
+    },
+    "timestamp": "2025-10-27T20:44:40.895481"
+  },
+  {
+    "pool_id": 78,
+    "costs": {
+      "costPerTravelHour": 1.21,
+      "costPerKm": 0.1325,
+      "parking_multiplier": 1.01
+    },
+    "features": {
+      "total_distance_km": 1015.97,
+      "total_travel_hours": 30.74,
+      "total_cost": 526518.16,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 211.48
+    },
+    "timestamp": "2025-10-27T20:46:41.395248"
+  },
+  {
+    "pool_id": 79,
+    "costs": {
+      "costPerTravelHour": 2.85,
+      "costPerKm": 0.0888,
+      "parking_multiplier": 0.7
+    },
+    "features": {
+      "total_distance_km": 1037.06,
+      "total_travel_hours": 30.9,
+      "total_cost": 511711.82,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 146.71
+    },
+    "timestamp": "2025-10-27T20:48:41.872284"
+  },
+  {
+    "pool_id": 80,
+    "costs": {
+      "costPerTravelHour": 0.78,
+      "costPerKm": 0.3338,
+      "parking_multiplier": 0.83
+    },
+    "features": {
+      "total_distance_km": 1013.21,
+      "total_travel_hours": 30.7,
+      "total_cost": 538110.28,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 173.78
+    },
+    "timestamp": "2025-10-27T20:50:42.350615"
+  },
+  {
+    "pool_id": 81,
+    "costs": {
+      "costPerTravelHour": 4.76,
+      "costPerKm": 0.0988,
+      "parking_multiplier": 3.88
+    },
+    "features": {
+      "total_distance_km": 1034.4,
+      "total_travel_hours": 30.95,
+      "total_cost": 676351.11,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 812.43
+    },
+    "timestamp": "2025-10-27T20:52:42.841405"
+  },
+  {
+    "pool_id": 82,
+    "costs": {
+      "costPerTravelHour": 2.04,
+      "costPerKm": 0.0888,
+      "parking_multiplier": 4.85
+    },
+    "features": {
+      "total_distance_km": 1023.54,
+      "total_travel_hours": 30.66,
+      "total_cost": 688781.96,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 1015.26
+    },
+    "timestamp": "2025-10-27T20:54:43.341373"
+  },
+  {
+    "pool_id": 83,
+    "costs": {
+      "costPerTravelHour": 4.58,
+      "costPerKm": 0.4827,
+      "parking_multiplier": 2.28
+    },
+    "features": {
+      "total_distance_km": 1012.76,
+      "total_travel_hours": 30.58,
+      "total_cost": 583046.82,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 477.53
+    },
+    "timestamp": "2025-10-27T20:56:43.803298"
+  },
+  {
+    "pool_id": 84,
+    "costs": {
+      "costPerTravelHour": 4.47,
+      "costPerKm": 0.4225,
+      "parking_multiplier": 2.52
+    },
+    "features": {
+      "total_distance_km": 1023.12,
+      "total_travel_hours": 30.62,
+      "total_cost": 524965.06,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 527.75
+    },
+    "timestamp": "2025-10-27T20:58:44.329217"
+  },
+  {
+    "pool_id": 85,
+    "costs": {
+      "costPerTravelHour": 3.43,
+      "costPerKm": 0.4199,
+      "parking_multiplier": 3.3
+    },
+    "features": {
+      "total_distance_km": 1007.08,
+      "total_travel_hours": 30.59,
+      "total_cost": 634083.19,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 690.94
+    },
+    "timestamp": "2025-10-27T21:00:44.773100"
+  },
+  {
+    "pool_id": 86,
+    "costs": {
+      "costPerTravelHour": 2.22,
+      "costPerKm": 0.1048,
+      "parking_multiplier": 1.5
+    },
+    "features": {
+      "total_distance_km": 1022.0,
+      "total_travel_hours": 30.85,
+      "total_cost": 537276.74,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 314.11
+    },
+    "timestamp": "2025-10-27T21:02:45.206663"
+  },
+  {
+    "pool_id": 87,
+    "costs": {
+      "costPerTravelHour": 1.96,
+      "costPerKm": 0.1218,
+      "parking_multiplier": 2.22
+    },
+    "features": {
+      "total_distance_km": 1014.98,
+      "total_travel_hours": 30.54,
+      "total_cost": 565457.96,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 464.79
+    },
+    "timestamp": "2025-10-27T21:04:45.652764"
+  },
+  {
+    "pool_id": 88,
+    "costs": {
+      "costPerTravelHour": 4.41,
+      "costPerKm": 0.4796,
+      "parking_multiplier": 1.44
+    },
+    "features": {
+      "total_distance_km": 1011.83,
+      "total_travel_hours": 30.52,
+      "total_cost": 526573.81,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 301.7
+    },
+    "timestamp": "2025-10-27T21:06:46.081513"
+  },
+  {
+    "pool_id": 89,
+    "costs": {
+      "costPerTravelHour": 2.21,
+      "costPerKm": 0.3,
+      "parking_multiplier": 1.69
+    },
+    "features": {
+      "total_distance_km": 1017.35,
+      "total_travel_hours": 30.67,
+      "total_cost": 579369.27,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 353.88
+    },
+    "timestamp": "2025-10-27T21:08:46.526802"
+  },
+  {
+    "pool_id": 90,
+    "costs": {
+      "costPerTravelHour": 5.0,
+      "costPerKm": 0.3455,
+      "parking_multiplier": 1.48
+    },
+    "features": {
+      "total_distance_km": 1033.9,
+      "total_travel_hours": 30.88,
+      "total_cost": 565025.45,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 310.12
+    },
+    "timestamp": "2025-10-27T21:10:47.449862"
+  },
+  {
+    "pool_id": 91,
+    "costs": {
+      "costPerTravelHour": 4.28,
+      "costPerKm": 0.1674,
+      "parking_multiplier": 3.31
+    },
+    "features": {
+      "total_distance_km": 1013.19,
+      "total_travel_hours": 30.71,
+      "total_cost": 606340.18,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 693.09
+    },
+    "timestamp": "2025-10-27T21:12:47.905718"
+  },
+  {
+    "pool_id": 92,
+    "costs": {
+      "costPerTravelHour": 3.45,
+      "costPerKm": 0.3968,
+      "parking_multiplier": 3.84
+    },
+    "features": {
+      "total_distance_km": 1018.47,
+      "total_travel_hours": 30.54,
+      "total_cost": 611027.29,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 803.96
+    },
+    "timestamp": "2025-10-27T21:14:48.373216"
+  },
+  {
+    "pool_id": 93,
+    "costs": {
+      "costPerTravelHour": 0.84,
+      "costPerKm": 0.1337,
+      "parking_multiplier": 2.65
+    },
+    "features": {
+      "total_distance_km": 1047.81,
+      "total_travel_hours": 31.02,
+      "total_cost": 645697.24,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 554.71
+    },
+    "timestamp": "2025-10-27T21:16:48.863890"
+  },
+  {
+    "pool_id": 94,
+    "costs": {
+      "costPerTravelHour": 2.45,
+      "costPerKm": 0.4415,
+      "parking_multiplier": 2.34
+    },
+    "features": {
+      "total_distance_km": 1117.01,
+      "total_travel_hours": 31.89,
+      "total_cost": 628781.08,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 489.94
+    },
+    "timestamp": "2025-10-27T21:18:49.338426"
+  },
+  {
+    "pool_id": 95,
+    "costs": {
+      "costPerTravelHour": 3.86,
+      "costPerKm": 0.1158,
+      "parking_multiplier": 1.09
+    },
+    "features": {
+      "total_distance_km": 1013.46,
+      "total_travel_hours": 30.67,
+      "total_cost": 514162.97,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 228.41
+    },
+    "timestamp": "2025-10-27T21:20:49.878970"
+  },
+  {
+    "pool_id": 96,
+    "costs": {
+      "costPerTravelHour": 4.74,
+      "costPerKm": 0.3165,
+      "parking_multiplier": 3.66
+    },
+    "features": {
+      "total_distance_km": 1017.48,
+      "total_travel_hours": 30.63,
+      "total_cost": 638749.95,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 766.38
+    },
+    "timestamp": "2025-10-27T21:22:50.442271"
+  },
+  {
+    "pool_id": 97,
+    "costs": {
+      "costPerTravelHour": 1.66,
+      "costPerKm": 0.4432,
+      "parking_multiplier": 2.48
+    },
+    "features": {
+      "total_distance_km": 1035.41,
+      "total_travel_hours": 30.89,
+      "total_cost": 636468.61,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 519.19
+    },
+    "timestamp": "2025-10-27T21:24:50.985341"
+  },
+  {
+    "pool_id": 98,
+    "costs": {
+      "costPerTravelHour": 4.8,
+      "costPerKm": 0.4402,
+      "parking_multiplier": 2.58
+    },
+    "features": {
+      "total_distance_km": 1011.7,
+      "total_travel_hours": 30.71,
+      "total_cost": 579979.23,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 540.33
+    },
+    "timestamp": "2025-10-27T21:26:51.593459"
+  },
+  {
+    "pool_id": 99,
+    "costs": {
+      "costPerTravelHour": 2.63,
+      "costPerKm": 0.1593,
+      "parking_multiplier": 2.46
+    },
+    "features": {
+      "total_distance_km": 1141.05,
+      "total_travel_hours": 32.15,
+      "total_cost": 559949.65,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 515.07
+    },
+    "timestamp": "2025-10-27T21:28:52.080158"
+  },
+  {
+    "pool_id": 100,
+    "costs": {
+      "costPerTravelHour": 2.48,
+      "costPerKm": 0.43,
+      "parking_multiplier": 1.66
+    },
+    "features": {
+      "total_distance_km": 1036.88,
+      "total_travel_hours": 31.0,
+      "total_cost": 589465.54,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 347.61
+    },
+    "timestamp": "2025-10-27T21:30:52.712439"
+  },
+  {
+    "pool_id": 101,
+    "costs": {
+      "costPerTravelHour": 4.75,
+      "costPerKm": 0.0643,
+      "parking_multiplier": 4.73
+    },
+    "features": {
+      "total_distance_km": 1017.03,
+      "total_travel_hours": 30.55,
+      "total_cost": 622775.04,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 990.33
+    },
+    "timestamp": "2025-10-27T21:32:53.403387"
+  },
+  {
+    "pool_id": 102,
+    "costs": {
+      "costPerTravelHour": 1.17,
+      "costPerKm": 0.216,
+      "parking_multiplier": 2.93
+    },
+    "features": {
+      "total_distance_km": 1022.31,
+      "total_travel_hours": 30.7,
+      "total_cost": 542359.01,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 613.34
+    },
+    "timestamp": "2025-10-27T21:34:53.910743"
+  },
+  {
+    "pool_id": 103,
+    "costs": {
+      "costPerTravelHour": 1.32,
+      "costPerKm": 0.0642,
+      "parking_multiplier": 0.41
+    },
+    "features": {
+      "total_distance_km": 1020.65,
+      "total_travel_hours": 30.84,
+      "total_cost": 504785.85,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 85.91
+    },
+    "timestamp": "2025-10-27T21:36:54.457842"
+  },
+  {
+    "pool_id": 104,
+    "costs": {
+      "costPerTravelHour": 1.88,
+      "costPerKm": 0.3763,
+      "parking_multiplier": 4.98
+    },
+    "features": {
+      "total_distance_km": 1030.93,
+      "total_travel_hours": 30.92,
+      "total_cost": 692295.11,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 1042.46
+    },
+    "timestamp": "2025-10-27T21:38:54.935613"
+  },
+  {
+    "pool_id": 105,
+    "costs": {
+      "costPerTravelHour": 3.45,
+      "costPerKm": 0.216,
+      "parking_multiplier": 0.6
+    },
+    "features": {
+      "total_distance_km": 1028.22,
+      "total_travel_hours": 30.69,
+      "total_cost": 488197.99,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 125.82
+    },
+    "timestamp": "2025-10-27T21:40:55.365793"
+  },
+  {
+    "pool_id": 106,
+    "costs": {
+      "costPerTravelHour": 4.11,
+      "costPerKm": 0.2394,
+      "parking_multiplier": 3.44
+    },
+    "features": {
+      "total_distance_km": 1016.47,
+      "total_travel_hours": 30.59,
+      "total_cost": 618643.55,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 720.29
+    },
+    "timestamp": "2025-10-27T21:42:55.852373"
+  },
+  {
+    "pool_id": 107,
+    "costs": {
+      "costPerTravelHour": 4.7,
+      "costPerKm": 0.4857,
+      "parking_multiplier": 2.67
+    },
+    "features": {
+      "total_distance_km": 1007.19,
+      "total_travel_hours": 30.67,
+      "total_cost": 595779.41,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 559.17
+    },
+    "timestamp": "2025-10-27T21:44:56.354109"
+  },
+  {
+    "pool_id": 108,
+    "costs": {
+      "costPerTravelHour": 1.64,
+      "costPerKm": 0.3984,
+      "parking_multiplier": 3.52
+    },
+    "features": {
+      "total_distance_km": 1022.0,
+      "total_travel_hours": 30.64,
+      "total_cost": 613398.64,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 736.86
+    },
+    "timestamp": "2025-10-27T21:46:56.789467"
+  },
+  {
+    "pool_id": 109,
+    "costs": {
+      "costPerTravelHour": 3.13,
+      "costPerKm": 0.2317,
+      "parking_multiplier": 2.17
+    },
+    "features": {
+      "total_distance_km": 1011.77,
+      "total_travel_hours": 30.37,
+      "total_cost": 528222.01,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 454.4
+    },
+    "timestamp": "2025-10-27T21:48:57.282226"
+  },
+  {
+    "pool_id": 110,
+    "costs": {
+      "costPerTravelHour": 3.72,
+      "costPerKm": 0.3723,
+      "parking_multiplier": 4.44
+    },
+    "features": {
+      "total_distance_km": 1015.52,
+      "total_travel_hours": 30.54,
+      "total_cost": 678022.43,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 929.56
+    },
+    "timestamp": "2025-10-27T21:50:57.770970"
+  },
+  {
+    "pool_id": 111,
+    "costs": {
+      "costPerTravelHour": 4.39,
+      "costPerKm": 0.1019,
+      "parking_multiplier": 2.63
+    },
+    "features": {
+      "total_distance_km": 1014.72,
+      "total_travel_hours": 30.55,
+      "total_cost": 533284.61,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 550.77
+    },
+    "timestamp": "2025-10-27T21:52:58.218312"
+  },
+  {
+    "pool_id": 112,
+    "costs": {
+      "costPerTravelHour": 1.07,
+      "costPerKm": 0.4257,
+      "parking_multiplier": 3.03
+    },
+    "features": {
+      "total_distance_km": 1002.78,
+      "total_travel_hours": 30.41,
+      "total_cost": 548018.12,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 634.26
+    },
+    "timestamp": "2025-10-27T21:54:58.630350"
+  },
+  {
+    "pool_id": 113,
+    "costs": {
+      "costPerTravelHour": 1.05,
+      "costPerKm": 0.487,
+      "parking_multiplier": 4.4
+    },
+    "features": {
+      "total_distance_km": 1022.31,
+      "total_travel_hours": 30.76,
+      "total_cost": 697930.78,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 921.0
+    },
+    "timestamp": "2025-10-27T21:56:59.116993"
+  },
+  {
+    "pool_id": 114,
+    "costs": {
+      "costPerTravelHour": 1.11,
+      "costPerKm": 0.035,
+      "parking_multiplier": 4.61
+    },
+    "features": {
+      "total_distance_km": 1041.31,
+      "total_travel_hours": 30.86,
+      "total_cost": 632068.34,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 964.96
+    },
+    "timestamp": "2025-10-27T21:58:59.553618"
+  },
+  {
+    "pool_id": 115,
+    "costs": {
+      "costPerTravelHour": 1.48,
+      "costPerKm": 0.4208,
+      "parking_multiplier": 4.34
+    },
+    "features": {
+      "total_distance_km": 1017.45,
+      "total_travel_hours": 30.6,
+      "total_cost": 648656.51,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 908.48
+    },
+    "timestamp": "2025-10-27T22:01:00.019698"
+  },
+  {
+    "pool_id": 116,
+    "costs": {
+      "costPerTravelHour": 4.44,
+      "costPerKm": 0.286,
+      "parking_multiplier": 2.01
+    },
+    "features": {
+      "total_distance_km": 1023.86,
+      "total_travel_hours": 30.75,
+      "total_cost": 570003.69,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 421.01
+    },
+    "timestamp": "2025-10-27T22:03:00.433895"
+  },
+  {
+    "pool_id": 117,
+    "costs": {
+      "costPerTravelHour": 1.93,
+      "costPerKm": 0.1601,
+      "parking_multiplier": 2.65
+    },
+    "features": {
+      "total_distance_km": 1009.97,
+      "total_travel_hours": 30.36,
+      "total_cost": 580886.35,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 554.79
+    },
+    "timestamp": "2025-10-27T22:05:00.840427"
+  },
+  {
+    "pool_id": 118,
+    "costs": {
+      "costPerTravelHour": 3.09,
+      "costPerKm": 0.1498,
+      "parking_multiplier": 1.71
+    },
+    "features": {
+      "total_distance_km": 1037.41,
+      "total_travel_hours": 30.95,
+      "total_cost": 586996.09,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 358.12
+    },
+    "timestamp": "2025-10-27T22:07:01.306839"
+  },
+  {
+    "pool_id": 119,
+    "costs": {
+      "costPerTravelHour": 3.14,
+      "costPerKm": 0.0697,
+      "parking_multiplier": 3.35
+    },
+    "features": {
+      "total_distance_km": 1022.83,
+      "total_travel_hours": 30.72,
+      "total_cost": 599011.11,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 701.38
+    },
+    "timestamp": "2025-10-27T22:09:01.803605"
+  },
+  {
+    "pool_id": 120,
+    "costs": {
+      "costPerTravelHour": 1.37,
+      "costPerKm": 0.279,
+      "parking_multiplier": 4.34
+    },
+    "features": {
+      "total_distance_km": 1022.47,
+      "total_travel_hours": 30.67,
+      "total_cost": 713574.69,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 908.47
+    },
+    "timestamp": "2025-10-27T22:11:02.990165"
+  },
+  {
+    "pool_id": 121,
+    "costs": {
+      "costPerTravelHour": 2.09,
+      "costPerKm": 0.4421,
+      "parking_multiplier": 4.73
+    },
+    "features": {
+      "total_distance_km": 1015.64,
+      "total_travel_hours": 30.63,
+      "total_cost": 680217.26,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 990.15
+    },
+    "timestamp": "2025-10-27T22:13:03.535569"
+  },
+  {
+    "pool_id": 122,
+    "costs": {
+      "costPerTravelHour": 2.7,
+      "costPerKm": 0.374,
+      "parking_multiplier": 4.66
+    },
+    "features": {
+      "total_distance_km": 1017.63,
+      "total_travel_hours": 30.64,
+      "total_cost": 676179.33,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 975.54
+    },
+    "timestamp": "2025-10-27T22:15:04.212079"
+  },
+  {
+    "pool_id": 123,
+    "costs": {
+      "costPerTravelHour": 4.05,
+      "costPerKm": 0.4058,
+      "parking_multiplier": 3.1
+    },
+    "features": {
+      "total_distance_km": 1020.54,
+      "total_travel_hours": 30.6,
+      "total_cost": 589126.1,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 649.12
+    },
+    "timestamp": "2025-10-27T22:17:04.829301"
+  },
+  {
+    "pool_id": 124,
+    "costs": {
+      "costPerTravelHour": 2.64,
+      "costPerKm": 0.4706,
+      "parking_multiplier": 3.95
+    },
+    "features": {
+      "total_distance_km": 1041.28,
+      "total_travel_hours": 31.11,
+      "total_cost": 742791.64,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 826.93
+    },
+    "timestamp": "2025-10-27T22:19:05.324467"
+  },
+  {
+    "pool_id": 125,
+    "costs": {
+      "costPerTravelHour": 0.91,
+      "costPerKm": 0.4149,
+      "parking_multiplier": 2.55
+    },
+    "features": {
+      "total_distance_km": 1002.69,
+      "total_travel_hours": 30.45,
+      "total_cost": 528897.24,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 533.78
+    },
+    "timestamp": "2025-10-27T22:21:05.962068"
+  },
+  {
+    "pool_id": 126,
+    "costs": {
+      "costPerTravelHour": 1.15,
+      "costPerKm": 0.4169,
+      "parking_multiplier": 1.69
+    },
+    "features": {
+      "total_distance_km": 1014.69,
+      "total_travel_hours": 30.63,
+      "total_cost": 569769.85,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 353.8
+    },
+    "timestamp": "2025-10-27T22:23:06.528739"
+  },
+  {
+    "pool_id": 127,
+    "costs": {
+      "costPerTravelHour": 2.25,
+      "costPerKm": 0.0154,
+      "parking_multiplier": 1.83
+    },
+    "features": {
+      "total_distance_km": 1030.68,
+      "total_travel_hours": 30.88,
+      "total_cost": 566016.41,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 383.18
+    },
+    "timestamp": "2025-10-27T22:25:07.003847"
+  },
+  {
+    "pool_id": 128,
+    "costs": {
+      "costPerTravelHour": 1.83,
+      "costPerKm": 0.2691,
+      "parking_multiplier": 4.64
+    },
+    "features": {
+      "total_distance_km": 1014.29,
+      "total_travel_hours": 30.6,
+      "total_cost": 680712.03,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 971.29
+    },
+    "timestamp": "2025-10-27T22:27:07.528304"
+  },
+  {
+    "pool_id": 129,
+    "costs": {
+      "costPerTravelHour": 0.65,
+      "costPerKm": 0.273,
+      "parking_multiplier": 1.74
+    },
+    "features": {
+      "total_distance_km": 1043.78,
+      "total_travel_hours": 31.12,
+      "total_cost": 501199.22,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 364.23
+    },
+    "timestamp": "2025-10-27T22:29:07.961310"
+  },
+  {
+    "pool_id": 130,
+    "costs": {
+      "costPerTravelHour": 3.99,
+      "costPerKm": 0.2131,
+      "parking_multiplier": 1.2
+    },
+    "features": {
+      "total_distance_km": 1020.7,
+      "total_travel_hours": 30.74,
+      "total_cost": 552602.07,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 251.44
+    },
+    "timestamp": "2025-10-27T22:31:08.573436"
+  },
+  {
+    "pool_id": 131,
+    "costs": {
+      "costPerTravelHour": 4.86,
+      "costPerKm": 0.2373,
+      "parking_multiplier": 4.75
+    },
+    "features": {
+      "total_distance_km": 1029.11,
+      "total_travel_hours": 30.68,
+      "total_cost": 696711.82,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 994.53
+    },
+    "timestamp": "2025-10-27T22:33:09.065644"
+  },
+  {
+    "pool_id": 132,
+    "costs": {
+      "costPerTravelHour": 3.14,
+      "costPerKm": 0.2334,
+      "parking_multiplier": 4.71
+    },
+    "features": {
+      "total_distance_km": 997.8,
+      "total_travel_hours": 30.31,
+      "total_cost": 677827.98,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 986.03
+    },
+    "timestamp": "2025-10-27T22:35:09.575296"
+  },
+  {
+    "pool_id": 133,
+    "costs": {
+      "costPerTravelHour": 2.84,
+      "costPerKm": 0.4897,
+      "parking_multiplier": 3.18
+    },
+    "features": {
+      "total_distance_km": 1035.23,
+      "total_travel_hours": 31.0,
+      "total_cost": 650375.0,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 665.78
+    },
+    "timestamp": "2025-10-27T22:37:10.037735"
+  },
+  {
+    "pool_id": 134,
+    "costs": {
+      "costPerTravelHour": 0.88,
+      "costPerKm": 0.1136,
+      "parking_multiplier": 0.67
+    },
+    "features": {
+      "total_distance_km": 1004.73,
+      "total_travel_hours": 30.33,
+      "total_cost": 483465.79,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 140.29
+    },
+    "timestamp": "2025-10-27T22:39:10.530577"
+  },
+  {
+    "pool_id": 135,
+    "costs": {
+      "costPerTravelHour": 4.45,
+      "costPerKm": 0.0992,
+      "parking_multiplier": 4.65
+    },
+    "features": {
+      "total_distance_km": 1031.25,
+      "total_travel_hours": 30.86,
+      "total_cost": 654613.21,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 973.57
+    },
+    "timestamp": "2025-10-27T22:41:11.025636"
+  },
+  {
+    "pool_id": 136,
+    "costs": {
+      "costPerTravelHour": 2.28,
+      "costPerKm": 0.2209,
+      "parking_multiplier": 3.11
+    },
+    "features": {
+      "total_distance_km": 1023.22,
+      "total_travel_hours": 30.79,
+      "total_cost": 628019.31,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 651.09
+    },
+    "timestamp": "2025-10-27T22:43:11.471375"
+  },
+  {
+    "pool_id": 137,
+    "costs": {
+      "costPerTravelHour": 1.06,
+      "costPerKm": 0.2215,
+      "parking_multiplier": 2.76
+    },
+    "features": {
+      "total_distance_km": 1009.62,
+      "total_travel_hours": 30.44,
+      "total_cost": 542933.37,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 577.75
+    },
+    "timestamp": "2025-10-27T22:45:11.946398"
+  },
+  {
+    "pool_id": 138,
+    "costs": {
+      "costPerTravelHour": 2.18,
+      "costPerKm": 0.4396,
+      "parking_multiplier": 4.25
+    },
+    "features": {
+      "total_distance_km": 1030.05,
+      "total_travel_hours": 31.0,
+      "total_cost": 740606.47,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 902.04
+    },
+    "timestamp": "2025-10-27T22:47:12.390540"
+  },
+  {
+    "pool_id": 139,
+    "costs": {
+      "costPerTravelHour": 0.93,
+      "costPerKm": 0.2007,
+      "parking_multiplier": 0.91
+    },
+    "features": {
+      "total_distance_km": 1019.99,
+      "total_travel_hours": 30.69,
+      "total_cost": 538598.04,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 190.53
+    },
+    "timestamp": "2025-10-27T22:49:12.893880"
+  },
+  {
+    "pool_id": 140,
+    "costs": {
+      "costPerTravelHour": 3.74,
+      "costPerKm": 0.4543,
+      "parking_multiplier": 2.08
+    },
+    "features": {
+      "total_distance_km": 1016.65,
+      "total_travel_hours": 30.64,
+      "total_cost": 586429.36,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 435.61
+    },
+    "timestamp": "2025-10-27T22:51:13.356409"
+  },
+  {
+    "pool_id": 141,
+    "costs": {
+      "costPerTravelHour": 2.12,
+      "costPerKm": 0.4591,
+      "parking_multiplier": 3.32
+    },
+    "features": {
+      "total_distance_km": 1026.69,
+      "total_travel_hours": 30.79,
+      "total_cost": 657333.69,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 695.03
+    },
+    "timestamp": "2025-10-27T22:53:13.772302"
+  },
+  {
+    "pool_id": 142,
+    "costs": {
+      "costPerTravelHour": 4.64,
+      "costPerKm": 0.4617,
+      "parking_multiplier": 2.0
+    },
+    "features": {
+      "total_distance_km": 1012.48,
+      "total_travel_hours": 30.41,
+      "total_cost": 548947.75,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 418.93
+    },
+    "timestamp": "2025-10-27T22:55:14.460087"
+  },
+  {
+    "pool_id": 143,
+    "costs": {
+      "costPerTravelHour": 1.62,
+      "costPerKm": 0.2145,
+      "parking_multiplier": 3.5
+    },
+    "features": {
+      "total_distance_km": 1036.01,
+      "total_travel_hours": 30.91,
+      "total_cost": 559989.63,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 732.67
+    },
+    "timestamp": "2025-10-27T22:57:14.868592"
+  },
+  {
+    "pool_id": 144,
+    "costs": {
+      "costPerTravelHour": 1.6,
+      "costPerKm": 0.118,
+      "parking_multiplier": 2.74
+    },
+    "features": {
+      "total_distance_km": 1015.47,
+      "total_travel_hours": 30.55,
+      "total_cost": 533662.74,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 573.6
+    },
+    "timestamp": "2025-10-27T22:59:15.253315"
+  },
+  {
+    "pool_id": 145,
+    "costs": {
+      "costPerTravelHour": 4.84,
+      "costPerKm": 0.2682,
+      "parking_multiplier": 1.86
+    },
+    "features": {
+      "total_distance_km": 1020.73,
+      "total_travel_hours": 30.62,
+      "total_cost": 562435.02,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 389.64
+    },
+    "timestamp": "2025-10-27T23:01:15.710374"
+  },
+  {
+    "pool_id": 146,
+    "costs": {
+      "costPerTravelHour": 2.26,
+      "costPerKm": 0.1739,
+      "parking_multiplier": 3.15
+    },
+    "features": {
+      "total_distance_km": 1022.76,
+      "total_travel_hours": 30.72,
+      "total_cost": 600081.08,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 659.46
+    },
+    "timestamp": "2025-10-27T23:03:16.317093"
+  },
+  {
+    "pool_id": 147,
+    "costs": {
+      "costPerTravelHour": 1.51,
+      "costPerKm": 0.0215,
+      "parking_multiplier": 3.99
+    },
+    "features": {
+      "total_distance_km": 1026.6,
+      "total_travel_hours": 30.88,
+      "total_cost": 685295.19,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 835.22
+    },
+    "timestamp": "2025-10-27T23:05:16.742749"
+  },
+  {
+    "pool_id": 148,
+    "costs": {
+      "costPerTravelHour": 3.83,
+      "costPerKm": 0.0633,
+      "parking_multiplier": 1.8
+    },
+    "features": {
+      "total_distance_km": 1023.1,
+      "total_travel_hours": 30.67,
+      "total_cost": 561856.21,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 377.01
+    },
+    "timestamp": "2025-10-27T23:07:17.186956"
+  },
+  {
+    "pool_id": 149,
+    "costs": {
+      "costPerTravelHour": 4.73,
+      "costPerKm": 0.4472,
+      "parking_multiplier": 3.16
+    },
+    "features": {
+      "total_distance_km": 1009.96,
+      "total_travel_hours": 30.57,
+      "total_cost": 553152.39,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 661.73
+    },
+    "timestamp": "2025-10-27T23:09:17.675624"
+  },
+  {
+    "pool_id": 150,
+    "costs": {
+      "costPerTravelHour": 2.09,
+      "costPerKm": 0.2332,
+      "parking_multiplier": 4.12
+    },
+    "features": {
+      "total_distance_km": 1019.46,
+      "total_travel_hours": 30.66,
+      "total_cost": 641930.74,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 862.47
+    },
+    "timestamp": "2025-10-27T23:11:18.662159"
+  },
+  {
+    "pool_id": 151,
+    "costs": {
+      "costPerTravelHour": 4.06,
+      "costPerKm": 0.403,
+      "parking_multiplier": 4.51
+    },
+    "features": {
+      "total_distance_km": 1011.28,
+      "total_travel_hours": 30.49,
+      "total_cost": 616139.36,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 944.24
+    },
+    "timestamp": "2025-10-27T23:13:19.113031"
+  },
+  {
+    "pool_id": 152,
+    "costs": {
+      "costPerTravelHour": 2.76,
+      "costPerKm": 0.4121,
+      "parking_multiplier": 4.66
+    },
+    "features": {
+      "total_distance_km": 1009.87,
+      "total_travel_hours": 30.49,
+      "total_cost": 679204.71,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 975.54
+    },
+    "timestamp": "2025-10-27T23:15:19.810303"
+  },
+  {
+    "pool_id": 153,
+    "costs": {
+      "costPerTravelHour": 0.54,
+      "costPerKm": 0.2204,
+      "parking_multiplier": 2.55
+    },
+    "features": {
+      "total_distance_km": 1036.7,
+      "total_travel_hours": 31.09,
+      "total_cost": 595337.73,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 533.76
+    },
+    "timestamp": "2025-10-27T23:17:20.267955"
+  },
+  {
+    "pool_id": 154,
+    "costs": {
+      "costPerTravelHour": 2.34,
+      "costPerKm": 0.1513,
+      "parking_multiplier": 3.33
+    },
+    "features": {
+      "total_distance_km": 1016.61,
+      "total_travel_hours": 30.39,
+      "total_cost": 580610.34,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 697.14
+    },
+    "timestamp": "2025-10-27T23:19:20.804199"
+  },
+  {
+    "pool_id": 155,
+    "costs": {
+      "costPerTravelHour": 3.22,
+      "costPerKm": 0.2262,
+      "parking_multiplier": 1.92
+    },
+    "features": {
+      "total_distance_km": 1026.21,
+      "total_travel_hours": 30.57,
+      "total_cost": 541459.51,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 402.09
+    },
+    "timestamp": "2025-10-27T23:21:21.226437"
+  },
+  {
+    "pool_id": 156,
+    "costs": {
+      "costPerTravelHour": 3.67,
+      "costPerKm": 0.4742,
+      "parking_multiplier": 2.28
+    },
+    "features": {
+      "total_distance_km": 1013.8,
+      "total_travel_hours": 30.56,
+      "total_cost": 578645.82,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 477.47
+    },
+    "timestamp": "2025-10-27T23:23:21.715669"
+  },
+  {
+    "pool_id": 157,
+    "costs": {
+      "costPerTravelHour": 2.88,
+      "costPerKm": 0.3295,
+      "parking_multiplier": 2.35
+    },
+    "features": {
+      "total_distance_km": 1026.23,
+      "total_travel_hours": 30.86,
+      "total_cost": 641843.11,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 492.06
+    },
+    "timestamp": "2025-10-27T23:25:22.370585"
+  },
+  {
+    "pool_id": 158,
+    "costs": {
+      "costPerTravelHour": 2.22,
+      "costPerKm": 0.121,
+      "parking_multiplier": 3.88
+    },
+    "features": {
+      "total_distance_km": 1041.07,
+      "total_travel_hours": 31.12,
+      "total_cost": 721829.64,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 812.25
+    },
+    "timestamp": "2025-10-27T23:27:22.791042"
+  },
+  {
+    "pool_id": 159,
+    "costs": {
+      "costPerTravelHour": 1.53,
+      "costPerKm": 0.3314,
+      "parking_multiplier": 0.38
+    },
+    "features": {
+      "total_distance_km": 1023.98,
+      "total_travel_hours": 30.8,
+      "total_cost": 532375.2,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 79.64
+    },
+    "timestamp": "2025-10-27T23:29:23.231055"
+  },
+  {
+    "pool_id": 160,
+    "costs": {
+      "costPerTravelHour": 1.98,
+      "costPerKm": 0.4348,
+      "parking_multiplier": 2.85
+    },
+    "features": {
+      "total_distance_km": 1016.0,
+      "total_travel_hours": 30.56,
+      "total_cost": 570122.33,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 596.65
+    },
+    "timestamp": "2025-10-27T23:31:23.864500"
+  },
+  {
+    "pool_id": 161,
+    "costs": {
+      "costPerTravelHour": 4.22,
+      "costPerKm": 0.3794,
+      "parking_multiplier": 2.75
+    },
+    "features": {
+      "total_distance_km": 1015.35,
+      "total_travel_hours": 30.71,
+      "total_cost": 582385.81,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 575.88
+    },
+    "timestamp": "2025-10-27T23:33:24.265352"
+  },
+  {
+    "pool_id": 162,
+    "costs": {
+      "costPerTravelHour": 1.5,
+      "costPerKm": 0.1927,
+      "parking_multiplier": 3.41
+    },
+    "features": {
+      "total_distance_km": 1017.07,
+      "total_travel_hours": 30.84,
+      "total_cost": 644667.56,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 713.83
+    },
+    "timestamp": "2025-10-27T23:35:24.868825"
+  },
+  {
+    "pool_id": 163,
+    "costs": {
+      "costPerTravelHour": 1.1,
+      "costPerKm": 0.3591,
+      "parking_multiplier": 1.87
+    },
+    "features": {
+      "total_distance_km": 1028.1,
+      "total_travel_hours": 30.89,
+      "total_cost": 590315.9,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 391.47
+    },
+    "timestamp": "2025-10-27T23:37:25.275140"
+  },
+  {
+    "pool_id": 164,
+    "costs": {
+      "costPerTravelHour": 3.47,
+      "costPerKm": 0.0538,
+      "parking_multiplier": 3.83
+    },
+    "features": {
+      "total_distance_km": 1040.87,
+      "total_travel_hours": 31.02,
+      "total_cost": 634843.98,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 801.87
+    },
+    "timestamp": "2025-10-27T23:39:25.720308"
+  },
+  {
+    "pool_id": 165,
+    "costs": {
+      "costPerTravelHour": 4.06,
+      "costPerKm": 0.1516,
+      "parking_multiplier": 0.47
+    },
+    "features": {
+      "total_distance_km": 1012.96,
+      "total_travel_hours": 30.53,
+      "total_cost": 508073.23,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 98.66
+    },
+    "timestamp": "2025-10-27T23:41:26.358420"
+  },
+  {
+    "pool_id": 166,
+    "costs": {
+      "costPerTravelHour": 4.92,
+      "costPerKm": 0.0761,
+      "parking_multiplier": 4.59
+    },
+    "features": {
+      "total_distance_km": 1161.36,
+      "total_travel_hours": 32.39,
+      "total_cost": 719921.99,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 961.04
+    },
+    "timestamp": "2025-10-27T23:43:26.821861"
+  },
+  {
+    "pool_id": 167,
+    "costs": {
+      "costPerTravelHour": 2.08,
+      "costPerKm": 0.1578,
+      "parking_multiplier": 1.98
+    },
+    "features": {
+      "total_distance_km": 1052.02,
+      "total_travel_hours": 31.32,
+      "total_cost": 569063.31,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 414.56
+    },
+    "timestamp": "2025-10-27T23:45:27.306387"
+  },
+  {
+    "pool_id": 168,
+    "costs": {
+      "costPerTravelHour": 3.99,
+      "costPerKm": 0.4489,
+      "parking_multiplier": 1.7
+    },
+    "features": {
+      "total_distance_km": 1023.42,
+      "total_travel_hours": 30.67,
+      "total_cost": 569393.9,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 356.09
+    },
+    "timestamp": "2025-10-27T23:47:27.727985"
+  },
+  {
+    "pool_id": 169,
+    "costs": {
+      "costPerTravelHour": 3.5,
+      "costPerKm": 0.3117,
+      "parking_multiplier": 2.99
+    },
+    "features": {
+      "total_distance_km": 1016.2,
+      "total_travel_hours": 30.51,
+      "total_cost": 561631.74,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 626.06
+    },
+    "timestamp": "2025-10-27T23:49:28.355098"
+  },
+  {
+    "pool_id": 170,
+    "costs": {
+      "costPerTravelHour": 3.27,
+      "costPerKm": 0.2546,
+      "parking_multiplier": 0.7
+    },
+    "features": {
+      "total_distance_km": 1015.75,
+      "total_travel_hours": 30.56,
+      "total_cost": 489791.59,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 146.74
+    },
+    "timestamp": "2025-10-27T23:51:28.797788"
+  },
+  {
+    "pool_id": 171,
+    "costs": {
+      "costPerTravelHour": 0.75,
+      "costPerKm": 0.3705,
+      "parking_multiplier": 0.58
+    },
+    "features": {
+      "total_distance_km": 1024.08,
+      "total_travel_hours": 30.99,
+      "total_cost": 532567.96,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 121.45
+    },
+    "timestamp": "2025-10-27T23:53:29.415511"
+  },
+  {
+    "pool_id": 172,
+    "costs": {
+      "costPerTravelHour": 3.0,
+      "costPerKm": 0.3812,
+      "parking_multiplier": 0.5
+    },
+    "features": {
+      "total_distance_km": 1009.26,
+      "total_travel_hours": 30.6,
+      "total_cost": 551534.96,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 104.86
+    },
+    "timestamp": "2025-10-27T23:55:30.015810"
+  },
+  {
+    "pool_id": 173,
+    "costs": {
+      "costPerTravelHour": 2.18,
+      "costPerKm": 0.3766,
+      "parking_multiplier": 0.21
+    },
+    "features": {
+      "total_distance_km": 1013.16,
+      "total_travel_hours": 30.44,
+      "total_cost": 458523.11,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 44.11
+    },
+    "timestamp": "2025-10-27T23:57:30.481221"
+  },
+  {
+    "pool_id": 174,
+    "costs": {
+      "costPerTravelHour": 1.15,
+      "costPerKm": 0.3922,
+      "parking_multiplier": 2.0
+    },
+    "features": {
+      "total_distance_km": 1021.67,
+      "total_travel_hours": 30.69,
+      "total_cost": 582418.66,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 418.68
+    },
+    "timestamp": "2025-10-27T23:59:30.925396"
+  },
+  {
+    "pool_id": 175,
+    "costs": {
+      "costPerTravelHour": 2.07,
+      "costPerKm": 0.2742,
+      "parking_multiplier": 3.27
+    },
+    "features": {
+      "total_distance_km": 1013.22,
+      "total_travel_hours": 30.76,
+      "total_cost": 613487.92,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 684.56
+    },
+    "timestamp": "2025-10-28T00:01:31.394947"
+  },
+  {
+    "pool_id": 176,
+    "costs": {
+      "costPerTravelHour": 3.98,
+      "costPerKm": 0.0194,
+      "parking_multiplier": 2.33
+    },
+    "features": {
+      "total_distance_km": 1112.36,
+      "total_travel_hours": 31.72,
+      "total_cost": 628135.16,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 487.95
+    },
+    "timestamp": "2025-10-28T00:03:31.891480"
+  },
+  {
+    "pool_id": 177,
+    "costs": {
+      "costPerTravelHour": 3.09,
+      "costPerKm": 0.0705,
+      "parking_multiplier": 1.35
+    },
+    "features": {
+      "total_distance_km": 1129.83,
+      "total_travel_hours": 32.02,
+      "total_cost": 564088.04,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 282.77
+    },
+    "timestamp": "2025-10-28T00:05:32.450148"
+  },
+  {
+    "pool_id": 178,
+    "costs": {
+      "costPerTravelHour": 4.39,
+      "costPerKm": 0.3519,
+      "parking_multiplier": 4.1
+    },
+    "features": {
+      "total_distance_km": 1026.69,
+      "total_travel_hours": 30.73,
+      "total_cost": 640981.8,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 858.45
+    },
+    "timestamp": "2025-10-28T00:07:32.888543"
+  },
+  {
+    "pool_id": 179,
+    "costs": {
+      "costPerTravelHour": 3.12,
+      "costPerKm": 0.1839,
+      "parking_multiplier": 2.78
+    },
+    "features": {
+      "total_distance_km": 1015.41,
+      "total_travel_hours": 30.77,
+      "total_cost": 633320.34,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 582.08
+    },
+    "timestamp": "2025-10-28T00:09:33.329974"
+  },
+  {
+    "pool_id": 180,
+    "costs": {
+      "costPerTravelHour": 4.59,
+      "costPerKm": 0.3954,
+      "parking_multiplier": 0.92
+    },
+    "features": {
+      "total_distance_km": 1014.81,
+      "total_travel_hours": 30.63,
+      "total_cost": 549192.45,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 192.88
+    },
+    "timestamp": "2025-10-28T00:11:34.116350"
+  },
+  {
+    "pool_id": 181,
+    "costs": {
+      "costPerTravelHour": 2.45,
+      "costPerKm": 0.3057,
+      "parking_multiplier": 1.35
+    },
+    "features": {
+      "total_distance_km": 1006.81,
+      "total_travel_hours": 30.42,
+      "total_cost": 561136.61,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 282.73
+    },
+    "timestamp": "2025-10-28T00:13:34.619273"
+  },
+  {
+    "pool_id": 182,
+    "costs": {
+      "costPerTravelHour": 4.1,
+      "costPerKm": 0.236,
+      "parking_multiplier": 4.2
+    },
+    "features": {
+      "total_distance_km": 1024.29,
+      "total_travel_hours": 30.82,
+      "total_cost": 659503.84,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 879.36
+    },
+    "timestamp": "2025-10-28T00:15:35.073886"
+  },
+  {
+    "pool_id": 183,
+    "costs": {
+      "costPerTravelHour": 2.3,
+      "costPerKm": 0.0998,
+      "parking_multiplier": 3.77
+    },
+    "features": {
+      "total_distance_km": 1037.69,
+      "total_travel_hours": 30.97,
+      "total_cost": 603902.94,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 789.23
+    },
+    "timestamp": "2025-10-28T00:17:35.486474"
+  },
+  {
+    "pool_id": 184,
+    "costs": {
+      "costPerTravelHour": 0.63,
+      "costPerKm": 0.2407,
+      "parking_multiplier": 4.94
+    },
+    "features": {
+      "total_distance_km": 1047.51,
+      "total_travel_hours": 31.19,
+      "total_cost": 640663.85,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 1034.0
+    },
+    "timestamp": "2025-10-28T00:19:36.051183"
+  },
+  {
+    "pool_id": 185,
+    "costs": {
+      "costPerTravelHour": 3.6,
+      "costPerKm": 0.3911,
+      "parking_multiplier": 4.21
+    },
+    "features": {
+      "total_distance_km": 1099.61,
+      "total_travel_hours": 31.62,
+      "total_cost": 594686.86,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 881.41
+    },
+    "timestamp": "2025-10-28T00:21:36.470354"
+  },
+  {
+    "pool_id": 186,
+    "costs": {
+      "costPerTravelHour": 2.63,
+      "costPerKm": 0.0577,
+      "parking_multiplier": 0.72
+    },
+    "features": {
+      "total_distance_km": 1137.9,
+      "total_travel_hours": 31.98,
+      "total_cost": 463747.18,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 150.88
+    },
+    "timestamp": "2025-10-28T00:23:36.996434"
+  },
+  {
+    "pool_id": 187,
+    "costs": {
+      "costPerTravelHour": 1.29,
+      "costPerKm": 0.2164,
+      "parking_multiplier": 1.6
+    },
+    "features": {
+      "total_distance_km": 1022.14,
+      "total_travel_hours": 30.77,
+      "total_cost": 593932.82,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 334.97
+    },
+    "timestamp": "2025-10-28T00:25:37.493826"
+  },
+  {
+    "pool_id": 188,
+    "costs": {
+      "costPerTravelHour": 0.8,
+      "costPerKm": 0.4326,
+      "parking_multiplier": 4.56
+    },
+    "features": {
+      "total_distance_km": 1043.36,
+      "total_travel_hours": 31.27,
+      "total_cost": 614515.62,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 954.47
+    },
+    "timestamp": "2025-10-28T00:27:38.043823"
+  },
+  {
+    "pool_id": 189,
+    "costs": {
+      "costPerTravelHour": 3.39,
+      "costPerKm": 0.424,
+      "parking_multiplier": 4.82
+    },
+    "features": {
+      "total_distance_km": 1059.75,
+      "total_travel_hours": 31.19,
+      "total_cost": 650971.15,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 1009.07
+    },
+    "timestamp": "2025-10-28T00:29:38.611309"
+  },
+  {
+    "pool_id": 190,
+    "costs": {
+      "costPerTravelHour": 3.73,
+      "costPerKm": 0.1513,
+      "parking_multiplier": 1.86
+    },
+    "features": {
+      "total_distance_km": 1018.45,
+      "total_travel_hours": 30.6,
+      "total_cost": 519941.13,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 389.56
+    },
+    "timestamp": "2025-10-28T00:31:39.044498"
+  },
+  {
+    "pool_id": 191,
+    "costs": {
+      "costPerTravelHour": 2.79,
+      "costPerKm": 0.0827,
+      "parking_multiplier": 2.88
+    },
+    "features": {
+      "total_distance_km": 1019.82,
+      "total_travel_hours": 30.7,
+      "total_cost": 620903.28,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 602.99
+    },
+    "timestamp": "2025-10-28T00:33:39.493526"
+  },
+  {
+    "pool_id": 192,
+    "costs": {
+      "costPerTravelHour": 3.23,
+      "costPerKm": 0.3219,
+      "parking_multiplier": 4.54
+    },
+    "features": {
+      "total_distance_km": 1018.99,
+      "total_travel_hours": 30.64,
+      "total_cost": 696106.22,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 950.46
+    },
+    "timestamp": "2025-10-28T00:35:39.919203"
+  },
+  {
+    "pool_id": 193,
+    "costs": {
+      "costPerTravelHour": 2.84,
+      "costPerKm": 0.2743,
+      "parking_multiplier": 1.01
+    },
+    "features": {
+      "total_distance_km": 1024.97,
+      "total_travel_hours": 30.85,
+      "total_cost": 539768.2,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 211.59
+    },
+    "timestamp": "2025-10-28T00:37:40.392856"
+  },
+  {
+    "pool_id": 194,
+    "costs": {
+      "costPerTravelHour": 1.94,
+      "costPerKm": 0.2587,
+      "parking_multiplier": 4.84
+    },
+    "features": {
+      "total_distance_km": 1026.11,
+      "total_travel_hours": 30.78,
+      "total_cost": 678536.08,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 1013.16
+    },
+    "timestamp": "2025-10-28T00:39:40.972609"
+  },
+  {
+    "pool_id": 195,
+    "costs": {
+      "costPerTravelHour": 4.54,
+      "costPerKm": 0.0306,
+      "parking_multiplier": 3.46
+    },
+    "features": {
+      "total_distance_km": 1010.39,
+      "total_travel_hours": 30.63,
+      "total_cost": 568549.55,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 724.5
+    },
+    "timestamp": "2025-10-28T00:41:41.468465"
+  },
+  {
+    "pool_id": 196,
+    "costs": {
+      "costPerTravelHour": 1.78,
+      "costPerKm": 0.4081,
+      "parking_multiplier": 3.39
+    },
+    "features": {
+      "total_distance_km": 1020.7,
+      "total_travel_hours": 30.64,
+      "total_cost": 635243.48,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 709.66
+    },
+    "timestamp": "2025-10-28T00:43:41.939032"
+  },
+  {
+    "pool_id": 197,
+    "costs": {
+      "costPerTravelHour": 4.64,
+      "costPerKm": 0.2982,
+      "parking_multiplier": 1.99
+    },
+    "features": {
+      "total_distance_km": 1016.55,
+      "total_travel_hours": 30.53,
+      "total_cost": 522793.73,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 416.84
+    },
+    "timestamp": "2025-10-28T00:45:42.420295"
+  },
+  {
+    "pool_id": 198,
+    "costs": {
+      "costPerTravelHour": 2.61,
+      "costPerKm": 0.0413,
+      "parking_multiplier": 3.08
+    },
+    "features": {
+      "total_distance_km": 1013.06,
+      "total_travel_hours": 30.52,
+      "total_cost": 601658.71,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 644.83
+    },
+    "timestamp": "2025-10-28T00:47:44.522496"
+  },
+  {
+    "pool_id": 199,
+    "costs": {
+      "costPerTravelHour": 1.3,
+      "costPerKm": 0.4263,
+      "parking_multiplier": 2.41
+    },
+    "features": {
+      "total_distance_km": 1015.32,
+      "total_travel_hours": 30.68,
+      "total_cost": 639248.19,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 504.51
+    },
+    "timestamp": "2025-10-28T00:49:44.974204"
+  },
+  {
+    "pool_id": 200,
+    "costs": {
+      "costPerTravelHour": 3.43,
+      "costPerKm": 0.1429,
+      "parking_multiplier": 4.59
+    },
+    "features": {
+      "total_distance_km": 1014.9,
+      "total_travel_hours": 30.47,
+      "total_cost": 635372.95,
+      "num_stops": 172,
+      "num_vehicles_used": 8,
+      "unplanned_jobs": 20,
+      "avg_parking_difficulty": 960.94
+    },
+    "timestamp": "2025-10-28T00:51:45.427737"
+  }
 ]
