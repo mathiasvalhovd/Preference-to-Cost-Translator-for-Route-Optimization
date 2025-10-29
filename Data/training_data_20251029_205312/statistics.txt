@@ -1,0 +1,25 @@
+============================================================
+TRAINING DATA STATISTICS
+============================================================
+
+Cost Pool:
+  Total solutions: 209
+  Pareto front: 6 (2.9%)
+
+Training Data:
+  Total samples: 1200
+  Unique solutions: 9
+  Samples per solution: 133.3
+
+Pareto Front Usage:
+  Pareto solutions in training: 6/6
+  Pareto samples: 610/1200 (50.8%)
+
+Top 5 most used solutions:
+  pool_id=173: 229 times (19.1%) ⭐ PARETO
+  pool_id=69: 223 times (18.6%) 
+  pool_id=55: 215 times (17.9%) 
+  pool_id=7: 170 times (14.2%) ⭐ PARETO
+  pool_id=77: 167 times (13.9%) ⭐ PARETO
+
+============================================================
