@@ -1,0 +1,41 @@
+{
+  "model_type": "Gradient Boosting",
+  "overall_r2": 0.6483253927874808,
+  "training_samples": 320,
+  "test_samples": 80,
+  "unique_outputs": 5,
+  "unique_preferences": 400,
+  "used_sample_weights": true,
+  "metrics": {
+    "costPerTravelHour": {
+      "MSE": 6.612968210593581,
+      "RMSE": 2.571569211705876,
+      "MAE": 0.4877459208207962,
+      "R\u00b2": 0.6016108415269782
+    },
+    "costPerKm": {
+      "MSE": 0.050176694931185685,
+      "RMSE": 0.22400155118031143,
+      "MAE": 0.03759454735566721,
+      "R\u00b2": 0.4519242926014042
+    },
+    "parking_multiplier": {
+      "MSE": 0.000813893631116186,
+      "RMSE": 0.028528821060748128,
+      "MAE": 0.007057040787230101,
+      "R\u00b2": 0.891441044234061
+    }
+  },
+  "input_features": [
+    "parking_importance",
+    "time_importance",
+    "distance_importance"
+  ],
+  "output_features": [
+    "costPerTravelHour",
+    "costPerKm",
+    "parking_multiplier"
+  ],
+  "requires_scaling": false,
+  "timestamp": "20251107_085146"
+}
