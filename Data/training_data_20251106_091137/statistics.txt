@@ -1,0 +1,55 @@
+======================================================================
+TRAINING DATA STATISTICS (V7)
+======================================================================
+
+Format: V7 (with sample weights)
+
+Cost Pool:
+  Total solutions: 200
+  Pareto front: 6 (3.0%)
+
+Training Data:
+  Total samples: 40000
+  Unique solutions used: 145
+  Avg samples per solution: 275.9
+  Unique preferences: 400
+  Unique cost combinations: 145
+
+Sample Weights:
+  Min: 2.876 (worst match)
+  Median: 5.211
+  Max: 9.970 (best match)
+  Ratio: 3.5x
+  Std dev: 1.401
+
+Pareto Front Usage:
+  Pareto solutions in training: 6/6
+  Pareto samples: 1708/40000 (4.3%)
+
+Top 10 most used solutions:
+  #1. pool_id=173: 400 times (1.0%) ⭐ PARETO
+  #2. pool_id=69: 400 times (1.0%) 
+  #3. pool_id=55: 400 times (1.0%) 
+  #4. pool_id=25: 400 times (1.0%) 
+  #5. pool_id=57: 400 times (1.0%) 
+  #6. pool_id=61: 400 times (1.0%) 
+  #7. pool_id=103: 400 times (1.0%) 
+  #8. pool_id=35: 400 times (1.0%) 
+  #9. pool_id=45: 400 times (1.0%) 
+  #10. pool_id=165: 400 times (1.0%) 
+
+Preference Concentration:
+  #1. (0.3547015404967484, 0.4552583393065892, 0.19004012019666242): 100 times (0.2%)
+  #2. (0.626560271007047, 0.2626441934554095, 0.11079553553754345): 100 times (0.2%)
+  #3. (0.6646288670469245, 0.08955281717405866, 0.24581831577901694): 100 times (0.2%)
+  #4. (0.5536407489620504, 0.2924050739729697, 0.15395417706497977): 100 times (0.2%)
+  #5. (0.034193228663620734, 0.8416086234052234, 0.12419814793115598): 100 times (0.2%)
+
+Cost Concentration:
+  #1. (17.55, 0.0564, 0.39): 400 times (1.0%)
+  #2. (1.58, 1.0158, 0.52): 400 times (1.0%)
+  #3. (17.99, 0.0852, 0.84): 400 times (1.0%)
+  #4. (3.15, 0.1935, 1.19): 400 times (1.0%)
+  #5. (1.31, 0.1856, 7.41): 400 times (1.0%)
+
+======================================================================
